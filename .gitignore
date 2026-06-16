@@ -1,0 +1,17 @@
+# Visual Studio build artifacts
+Debug/
+Release/
+*.tlog/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.user
+*.vcxproj.user
+x64/
+x86/
+.vs/
